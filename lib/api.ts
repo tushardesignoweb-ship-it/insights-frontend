@@ -1,6 +1,6 @@
 // const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:5002/api";
 // const API_URL = "https://lip-uncoated-haiku.ngrok-free.dev/api"
-const API_URL = "https://insights-backend-cbus.onrender.com/api"
+const API_URL = "https://insights-backend-wqia.onrender.com/api"
 // const API_URL = "http://localhost:5002/api"
 
 async function api(endpoint: string, options: RequestInit = {}) {
